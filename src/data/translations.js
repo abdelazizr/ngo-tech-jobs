@@ -1,0 +1,36 @@
+export const translations = {
+    en: {
+        heroTitle: "NGO Tech Jobs in Africa",
+        heroSubtitle: "A curated job board for IT, data, and digital roles in NGOs and development organizations working in Africa.",
+        searchPlaceholder: "Search by role, organization, or location...",
+        showingJobs: "Showing {count} active jobs",
+        postedAgo: "{days}d ago",
+        postedToday: "Today",
+        postedYesterday: "Yesterday",
+        applyNow: "Apply Now",
+        backToJobs: "← Back to Jobs",
+        aboutRole: "About the Role",
+        responsibilities: "Responsibilities",
+        requirements: "Requirements",
+        viewDetails: "View Details",
+        postJob: "Post a Job",
+        newJobsWeekly: "✨ New jobs added weekly"
+    },
+    fr: {
+        heroTitle: "Tech Jobs dans les ONG en Afrique",
+        heroSubtitle: "Une sélection d'offres d'emploi IT, data et digital au sein des ONG actives en Afrique.",
+        searchPlaceholder: "Rechercher par rôle, organisation ou lieu...",
+        showingJobs: "{count} offres d'emploi actives",
+        postedAgo: "Il y a {days}j",
+        postedToday: "Aujourd'hui",
+        postedYesterday: "Hier",
+        applyNow: "Postuler",
+        backToJobs: "← Retour aux offres",
+        aboutRole: "À propos du rôle",
+        responsibilities: "Responsabilités",
+        requirements: "Prérequis",
+        viewDetails: "Voir les détails",
+        postJob: "Publier une offre",
+        newJobsWeekly: "✨ Nouvelles offres ajoutées chaque semaine"
+    }
+};

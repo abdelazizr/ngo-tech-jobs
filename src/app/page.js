@@ -1,66 +1,57 @@
-import Image from "next/image";
-import styles from "./page.module.css";
+"use client";
+
+import { useState, useMemo } from 'react';
+import jobsData from '../data/jobs.json';
+import JobCard from '../components/JobCard';
+import SearchHeader from '../components/SearchHeader';
 
 export default function Home() {
+  const [searchTerm, setSearchTerm] = useState('');
+
+  const filteredJobs = useMemo(() => {
+    if (!searchTerm) return jobsData;
+
+    const lowerTerm = searchTerm.toLowerCase();
+    return jobsData.filter(job =>
+      job.title.toLowerCase().includes(lowerTerm) ||
+      job.organization.toLowerCase().includes(lowerTerm) ||
+      job.location.toLowerCase().includes(lowerTerm) ||
+      job.description.toLowerCase().includes(lowerTerm)
+    );
+  }, [searchTerm]);
+
   return (
-    <div className={styles.page}>
-      <main className={styles.main}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className={styles.intro}>
-          <h1>To get started, edit the page.js file.</h1>
-          <p>
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <main>
+      <SearchHeader
+        searchTerm={searchTerm}
+        onSearchChange={setSearchTerm}
+        jobCount={filteredJobs.length}
+      />
+
+      <div className="container">
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', paddingBottom: '4rem' }}>
+          {filteredJobs.length > 0 ? (
+            filteredJobs.map(job => (
+              <JobCard key={job.id} job={job} />
+            ))
+          ) : (
+            <div style={{ textAlign: 'center', padding: '4rem 0', color: 'var(--text-secondary)' }}>
+              <p>No jobs found matching "{searchTerm}"</p>
+              <button
+                onClick={() => setSearchTerm('')}
+                style={{
+                  marginTop: '1rem',
+                  color: 'var(--primary)',
+                  fontWeight: 500,
+                  textDecoration: 'underline'
+                }}
+              >
+                Clear search
+              </button>
+            </div>
+          )}
         </div>
-        <div className={styles.ctas}>
-          <a
-            className={styles.primary}
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className={styles.logo}
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className={styles.secondary}
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
-    </div>
+      </div>
+    </main>
   );
 }

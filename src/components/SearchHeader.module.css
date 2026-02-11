@@ -1,0 +1,187 @@
+.container {
+    padding: 6rem 1.5rem 4rem;
+    /* More top padding for drama */
+    margin-bottom: 2rem;
+    background-color: var(--bg-color);
+    /* Optional: Subtle gradient match from Antigravity */
+    background: radial-gradient(circle at top right, #F8F9FA 0%, #FFFFFF 40%);
+}
+
+.topBar {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding: 1.5rem 2rem;
+    max-width: 1200px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.actionsRight {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.postJobBtn {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-secondary);
+    background-color: transparent;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-pill);
+    transition: all 0.2s;
+    border: 1px solid transparent;
+}
+
+.postJobBtn:hover {
+    color: var(--text-primary);
+    background-color: var(--secondary);
+    border-color: var(--border-color);
+}
+
+.langToggle {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--text-secondary);
+    cursor: pointer;
+    display: flex;
+    gap: 0.75rem;
+    transition: color 0.2s;
+    background: var(--secondary);
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-pill);
+}
+
+.langToggle:hover {
+    color: var(--text-primary);
+    background: var(--secondary-hover);
+}
+
+.activeLang {
+    color: var(--primary);
+}
+
+.divider {
+    color: var(--text-tertiary);
+}
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.brand {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.5rem;
+}
+
+.heading {
+    font-size: 4rem;
+    /* Massive, bold type */
+    font-weight: 800;
+    letter-spacing: -0.04em;
+    color: var(--text-primary);
+    margin: 0;
+    line-height: 1;
+}
+
+.subheading {
+    color: var(--text-secondary);
+    font-size: 1.25rem;
+    margin-bottom: 3rem;
+    line-height: 1.6;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.searchBar {
+    margin-bottom: 2rem;
+    position: relative;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.inputWrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.searchIcon {
+    position: absolute;
+    left: 1.5rem;
+    color: var(--text-primary);
+    display: flex;
+    align-items: center;
+    z-index: 10;
+}
+
+.input {
+    width: 100%;
+    padding: 1.25rem 1.25rem 1.25rem 3.5rem;
+    font-size: 1.1rem;
+    color: var(--text-primary);
+    background-color: var(--secondary);
+    /* Light gray background like Google inputs */
+    border: 2px solid transparent;
+    border-radius: var(--radius-pill);
+    transition: all 0.2s;
+    outline: none;
+    font-family: var(--font-sans);
+    font-weight: 500;
+}
+
+.input:focus {
+    background-color: white;
+    border-color: var(--primary);
+    box-shadow: 0 0 0 4px rgba(0, 0, 0, 0.05);
+}
+
+.input::placeholder {
+    color: var(--text-tertiary);
+    font-weight: 400;
+}
+
+.stats {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    background-color: white;
+    padding: 0.5rem 1rem;
+    border-radius: var(--radius-pill);
+    border: 1px solid var(--secondary);
+}
+
+.liveIndicator {
+    width: 8px;
+    height: 8px;
+    background-color: var(--secondary);
+    /* Green secondary */
+    box-shadow: 0 0 0 2px #FFFFFF, 0 0 0 4px #D1FAE5;
+    /* Ring effect */
+    border-radius: 50%;
+    /* Keep animation */
+    background-color: #10B981;
+}
+
+@media (max-width: 640px) {
+    .heading {
+        font-size: 2.5rem;
+    }
+
+    .container {
+        padding-top: 5rem;
+    }
+}

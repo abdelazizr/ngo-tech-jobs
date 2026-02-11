@@ -1,27 +1,47 @@
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+  /* Design Tokens - V4 Google Antigravity Theme */
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
+  /* Monochrome Power */
+  --primary: #000000;
+  --primary-hover: #333333;
+  --primary-text: #FFFFFF;
 
-html,
-body {
-  max-width: 100vw;
-  overflow-x: hidden;
-}
+  --secondary: #F1F3F4;
+  /* Google Light Gray */
+  --secondary-hover: #E8EAED;
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  --accent: #1A73E8;
+  /* Classic Google Blue for links/highlights only */
+
+  --bg-color: #FFFFFF;
+  /* Pure White */
+  --surface-color: #FFFFFF;
+  --surface-hover: #F8F9FA;
+
+  --border-color: #DADCE0;
+
+  --text-primary: #202124;
+  /* Almost Black */
+  --text-secondary: #5F6368;
+  --text-tertiary: #BDC1C6;
+
+  /* Shadows - Diffuse & Soft */
+  --shadow-sm: 0 1px 2px 0 rgba(60, 64, 67, 0.3), 0 1px 3px 1px rgba(60, 64, 67, 0.15);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025);
+  --shadow-floating: 0 12px 24px rgba(0, 0, 0, 0.08);
+  /* For the cards */
+
+  /* Shapes - Pills & Large Radii */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 24px;
+  /* Cards */
+  --radius-pill: 9999px;
+  /* Buttons */
+
+  /* Typography - Geometric */
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
 * {
@@ -30,13 +50,82 @@ body {
   margin: 0;
 }
 
+body {
+  font-family: var(--font-sans);
+  background-color: var(--bg-color);
+  color: var(--text-primary);
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
 a {
   color: inherit;
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
+button {
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-family: inherit;
+}
+
+.container {
+  max-width: 1200px;
+  /* Wider for the 'airy' feel */
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Typography Utilities */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--text-primary);
+  line-height: 1.1;
+  /* Tighter leading for geometric fonts */
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+p {
+  color: var(--text-secondary);
+}
+
+/* Badge Utility */
+.badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 1rem;
+  border-radius: var(--radius-pill);
+  font-size: 0.8rem;
+  font-weight: 600;
+  background-color: var(--secondary);
+  color: var(--text-primary);
+}
+
+/* Button Utility - Pill Shaped & Black */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 2rem;
+  border-radius: var(--radius-pill);
+  font-weight: 600;
+  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  letter-spacing: -0.01em;
+}
+
+.btn-primary {
+  background-color: var(--primary);
+  color: var(--primary-text);
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-hover);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }

@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Frontend Developer",
+    "organization": "Doctors Without Borders",
+    "location": "Paris, France",
+    "description": "Lead the development of our critical field data collection tools using React and TypeScript. Help save lives by improving our emergency response capabilities.",
+    "full_description": "As a Senior Frontend Developer at Doctors Without Borders (MSF), you will be at the forefront of building digital tools that support our humanitarian missions worldwide. You will work on a suite of applications used by field workers to collect patient data, manage logistics, and coordinate emergency responses in real-time.",
+    "requirements": [
+      "5+ years of experience with React, TypeScript, and modern state management.",
+      "Experience building offline-first applications (PWA, Service Workers).",
+      "Sensitivity to UI/UX for low-bandwidth environments.",
+      "Fluency in English; French is a strong plus."
+    ],
+    "responsibilities": [
+      "Architect and build scalable frontend components.",
+      "Mentor junior developers and conduct code reviews.",
+      "Collaborate with field teams to understand user needs.",
+      "Ensure application performance on low-end devices."
+    ],
+    "salary_range": "€55k - €70k",
+    "employment_type": "Full-time",
+    "language": "en",
+    "apply_url": "https://www.doctorswithoutborders.org/",
+    "created_at": "2025-05-10T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Développeur Full Stack",
+    "organization": "Handicap International",
+    "location": "Lyon, France",
+    "description": "Rejoignez notre équipe technique pour maintenir et évoluer nos plateformes de gestion de dons et de programmes humanitaires.",
+    "full_description": "Handicap International recherche un Développeur Full Stack passionné pour rejoindre son pôle digital. Vous participerez à la refonte de nos outils internes et à l'optimisation de nos plateformes de collecte de fonds qui soutiennent nos actions dans plus de 60 pays.",
+    "requirements": [
+      "Maîtrise de Node.js et React/Vue.js.",
+      "Expérience avec les bases de données SQL et NoSQL.",
+      "Bonnes connaissances en CI/CD et Docker.",
+      "Capacité à travailler en équipe agile."
+    ],
+    "responsibilities": [
+      "Développer de nouvelles fonctionnalités pour le CRM donateurs.",
+      "Maintenir et optimiser les API existantes.",
+      "Participer aux rituels agiles (stand-up, planning, rétro).",
+      "Assurer la qualité du code par des tests unitaires et d'intégration."
+    ],
+    "salary_range": "€45k - €55k",
+    "employment_type": "CDI",
+    "language": "fr",
+    "apply_url": "https://example.com/apply/2",
+    "created_at": "2025-05-12T09:30:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Data Analyst (Remote)",
+    "organization": "World Food Programme",
+    "location": "Remote",
+    "description": "Analyze food security data to help optimize distribution networks in crisis zones. Strong SQL and Python skills required.",
+    "full_description": "Join the World Food Programme's Vulnerability Analysis and Mapping (VAM) unit. You will analyze vast datasets to identify food insecurity trends and help optimize the delivery of life-saving assistance to millions of people.",
+    "requirements": [
+      "Strong proficiency in SQL and Python (Pandas, NumPy).",
+      "Experience with data visualization tools (Tableau, PowerBI).",
+      "Background in statistics or economics.",
+      "Ability to communicate complex findings to non-technical stakeholders."
+    ],
+    "responsibilities": [
+      "Clean and model data from diverse sources (surveys, satellite imagery, market prices).",
+      "Create automated reports and dashboards for decision-makers.",
+      "Conduct predictive analysis on food security trends.",
+      "Support field officers with ad-hoc data requests."
+    ],
+    "salary_range": "$60k - $80k USD",
+    "employment_type": "Contract",
+    "language": "en",
+    "apply_url": "https://example.com/apply/3",
+    "created_at": "2025-05-14T14:15:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Tech Lead",
+    "organization": "Unicef",
+    "location": "New York, USA",
+    "description": "Guide technical strategy for child protection software systems. Experience with large-scale distributed systems preferred.",
+    "full_description": "UNICEF is looking for a Tech Lead to oversee the architecture and development of our global child protection case management system. You will define technical standards and lead a distributed team of developers.",
+    "requirements": [
+      "7+ years in software engineering, 2+ as a lead.",
+      "Deep understanding of distributed systems and microservices.",
+      "Experience with cloud platforms (Azure or AWS).",
+      "Strong leadership and communication skills."
+    ],
+    "responsibilities": [
+      "Define technical roadmap and architecture.",
+      "Make high-level design choices and select technical standards.",
+      "Manage technical debt and ensure system reliability.",
+      "Liaise with program managers to align tech with mission goals."
+    ],
+    "salary_range": "$110k - $140k USD",
+    "employment_type": "Full-time",
+    "language": "en",
+    "apply_url": "https://example.com/apply/4",
+    "created_at": "2025-05-15T11:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Chef de Projet Digital",
+    "organization": "Action Contre La Faim",
+    "location": "Paris, France",
+    "description": "Coordonnez le déploiement de nos nouveaux outils digitaux sur le terrain. Déplacements fréquents à prévoir.",
+    "full_description": "En tant que Chef de Projet Digital, vous ferez le lien entre les équipes techniques au siège et les besoins opérationnels sur le terrain. Votre mission est d'assurer l'adoption et l'efficacité des outils numériques déployés.",
+    "requirements": [
+      "Expérience en gestion de projet IT (Agile/Scrum).",
+      "Excellente communication et pédagogie.",
+      "Disponibilité pour des missions terrain (30% du temps).",
+      "Anglais courant."
+    ],
+    "responsibilities": [
+      "Recueillir et prioriser les besoins utilisateurs.",
+      "Planifier les phases de déploiement et de formation.",
+      "Suivre les indicateurs d'utilisation et de performance.",
+      "Gérer la relation avec les prestataires techniques."
+    ],
+    "salary_range": "€50k - €60k",
+    "employment_type": "CDI",
+    "language": "fr",
+    "apply_url": "https://example.com/apply/5",
+    "created_at": "2025-05-18T16:45:00Z"
+  },
+  {
+    "id": 6,
+    "title": "React Native Developer",
+    "organization": "Red Cross",
+    "location": "Geneva, Switzerland",
+    "description": "Build mobile applications for first responders. Offline-first architecture experience is a huge plus.",
+    "full_description": "Help the Red Cross modernize its emergency response toolkit. You will build and maintain mobile applications used by volunteers and staff in disaster zones, often with limited connectivity.",
+    "requirements": [
+      "Expertise in React Native and mobile development lifecycles.",
+      "Experience with local storage (SQLite, Realm) and sync logic.",
+      "Knowledge of native modules (iOS/Android) is a plus.",
+      "Passion for humanitarian work."
+    ],
+    "responsibilities": [
+      "Develop clean, maintainable React Native code.",
+      "Optimize application performance and battery usage.",
+      "Implement robust offline synchronization mechanisms.",
+      "Work with UX designers to ensure accessibility."
+    ],
+    "salary_range": "CHF 90k - CHF 110k",
+    "employment_type": "Full-time",
+    "language": "en",
+    "apply_url": "https://example.com/apply/6",
+    "created_at": "2025-05-19T08:20:00Z"
+  },
+  {
+    "id": 7,
+    "title": "SysAdmin / DevOps",
+    "organization": "Oxfam",
+    "location": "Oxford, UK",
+    "description": "Maintain secure infrastructure for our global operations. Linux, AWS, and Terraform focus.",
+    "full_description": "Ensure the stability and security of Oxfam's global IT infrastructure. You will manage cloud environments, automate deployment pipelines, and harden systems against cyber threats.",
+    "requirements": [
+      "Strong Linux administration skills.",
+      "Experience with AWS core services and Terraform.",
+      "Knowledge of CI/CD tools (Jenkins, GitLab CI).",
+      "Understanding of network security fundamentals."
+    ],
+    "responsibilities": [
+      "Manage and monitor AWS infrastructure.",
+      "Automate infrastructure provisioning with IaC.",
+      "Respond to incidents and perform root cause analysis.",
+      "Implement security best practices and compliance checks."
+    ],
+    "salary_range": "£45k - £60k",
+    "employment_type": "Full-time",
+    "language": "en",
+    "apply_url": "https://example.com/apply/7",
+    "created_at": "2025-05-20T13:10:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Product Designer",
+    "organization": "Save the Children",
+    "location": "London, UK",
+    "description": "Design accessible interfaces for low-bandwidth environments. Help us reach more children in need.",
+    "full_description": "We need a Product Designer who understands strict constraints. You will design interfaces for education and health platforms used in remote areas with slow internet and older devices.",
+    "requirements": [
+      "Portfolio showing complex problem solving.",
+      "Experience designing for accessibility (WCAG).",
+      "Proficiency in Figma and prototyping tools.",
+      "Empathy and user-centric mindset."
+    ],
+    "responsibilities": [
+      "Conduct user research and usability testing.",
+      "Create wireframes, prototypes, and high-fidelity mockups.",
+      "Maintain and evolve the design system.",
+      "Work closely with developers to ensure design fidelity."
+    ],
+    "salary_range": "£50k - £65k",
+    "employment_type": "Full-time",
+    "language": "en",
+    "apply_url": "https://example.com/apply/8",
+    "created_at": "2025-05-21T10:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Administrateur Systèmes et Réseaux",
+    "organization": "Secours Populaire",
+    "location": "Paris, France",
+    "description": "Assurer le bon fonctionnement du parc informatique et des réseaux du siège et des antennes.",
+    "full_description": "Le Secours Populaire recherche un administrateur pour garantir la disponibilité des outils informatiques pour nos bénévoles et salariés. Un rôle clé pour la bonne marche de la solidarité.",
+    "requirements": [
+      "Maîtrise de l'environnement Windows et Linux.",
+      "Connaissances en réseaux (TCP/IP, VLAN, VPN).",
+      "Sens du service et pédagogie.",
+      "Permis B (déplacements ponctuels)."
+    ],
+    "responsibilities": [
+      "Gérer le parc informatique et la téléphonie.",
+      "Administrer les serveurs et sauvegardes.",
+      "Assurer le support technique aux utilisateurs.",
+      "Gérer les droits d'accès et la sécurité."
+    ],
+    "salary_range": "€35k - €45k",
+    "employment_type": "CDI",
+    "language": "fr",
+    "apply_url": "https://example.com/apply/9",
+    "created_at": "2025-05-22T09:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Backend Engineer (Python)",
+    "organization": "Amnesty International",
+    "location": "Remote (EMEA)",
+    "description": "Build secure APIs for our human rights monitoring platforms. Django/Flask experience required.",
+    "full_description": "Join Amnesty's Tech team to build secure and scalable tools for documenting human rights violations. Your code will help researchers and activists safely collect and analyze evidence.",
+    "requirements": [
+      "Strong Python skills (Django or Flask).",
+      "Experience with RESTful API design.",
+      "Focus on code security and data privacy.",
+      "Familiarity with PostgreSQL and Redis."
+    ],
+    "responsibilities": [
+      "Design and implement secure backend services.",
+      "Optimize database queries and data structures.",
+      "Review code for security vulnerabilities.",
+      "Write technical documentation for APIs."
+    ],
+    "salary_range": "€60k - €80k",
+    "employment_type": "Remote",
+    "language": "en",
+    "apply_url": "https://example.com/apply/10",
+    "created_at": "2025-05-23T15:30:00Z"
+  }
+]
