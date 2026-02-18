@@ -19,6 +19,16 @@ export default function JobPage({ params }) {
 
     const [job, setJob] = useState(null);
 
+    const formatDate = (dateStr) => {
+        if (!dateStr || dateStr === 'N/A') return null;
+        const date = new Date(dateStr);
+        return isNaN(date.getTime()) ? null : date.toLocaleDateString(undefined, {
+            month: 'short',
+            day: 'numeric',
+            year: 'numeric'
+        });
+    };
+
     useEffect(() => {
         if (id) {
             const found = getJob(id);
@@ -50,6 +60,18 @@ export default function JobPage({ params }) {
                         <span className={styles.location}>{job.location}</span>
                         <span className={styles.dot}>•</span>
                         <span className={styles.type}>{job.employment_type || 'Full-time'}</span>
+                        {formatDate(job.created_at) && (
+                            <>
+                                <span className={styles.dot}>•</span>
+                                <span className={styles.date}>Posted {formatDate(job.created_at)}</span>
+                            </>
+                        )}
+                        {formatDate(job.closing_date) && (
+                            <>
+                                <span className={styles.dot}>•</span>
+                                <span className={styles.date} style={{ color: '#e11d48' }}>Closes {formatDate(job.closing_date)}</span>
+                            </>
+                        )}
                     </div>
                     {job.salary_range && (
                         <div className={styles.salary}>
@@ -62,7 +84,7 @@ export default function JobPage({ params }) {
                         {t('applyNow')}
                     </a>
                 </div>
-            </div>
+            </div >
 
             <div className={styles.content}>
                 <section className={styles.section}>
@@ -92,6 +114,6 @@ export default function JobPage({ params }) {
                     </section>
                 )}
             </div>
-        </div>
+        </div >
     );
 }

@@ -26,10 +26,36 @@ export default function Home() {
         searchTerm={searchTerm}
         onSearchChange={setSearchTerm}
         jobCount={filteredJobs.length}
+        organizationCount={new Set(filteredJobs.map(job => job.organization)).size}
+        newJobsCount={jobsData.filter(job => {
+          if (!job.created_at || job.created_at === 'N/A') return false;
+          const date = new Date(job.created_at);
+          const oneWeekAgo = new Date();
+          oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
+          return date > oneWeekAgo;
+        }).length}
       />
 
-      <div className="container">
-        <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem', paddingBottom: '4rem' }}>
+      <div style={{ maxWidth: '1000px', margin: '0 auto', padding: '3rem 2rem' }}>
+        <div style={{
+          display: 'flex',
+          justifyContent: 'space-between',
+          alignItems: 'center',
+          marginBottom: '1.5rem',
+          position: 'sticky',
+          top: '80px',
+          background: 'var(--primary-bg)',
+          padding: '1rem 0',
+          zIndex: 10
+        }}>
+          <h2 style={{ fontSize: '1.5rem', fontWeight: 600 }}>Latest Opportunities</h2>
+          <span style={{ fontSize: '0.875rem', color: 'var(--text-secondary)' }}>
+            {/* Assuming t function is available or replacing with static text */}
+            Showing {filteredJobs.length} jobs
+          </span>
+        </div>
+
+        <div style={{ display: 'flex', flexDirection: 'column', gap: '1rem' }}>
           {filteredJobs.length > 0 ? (
             filteredJobs.map(job => (
               <JobCard key={job.id} job={job} />

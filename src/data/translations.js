@@ -14,7 +14,13 @@ export const translations = {
         requirements: "Requirements",
         viewDetails: "View Details",
         postJob: "Post a Job",
-        newJobsWeekly: "✨ New jobs added weekly"
+        newJobsWeekly: "✨ New jobs added weekly",
+        newJobsThisWeek: "New Jobs This Week",
+        openPositions: "Open Positions",
+        organizations: "Organizations",
+        filterAll: "All",
+        latestOpportunities: "Latest Opportunities",
+        postJobShort: "Post Job"
     },
     fr: {
         heroTitle: "Tech Jobs dans les ONG en Afrique",
@@ -31,6 +37,12 @@ export const translations = {
         requirements: "Prérequis",
         viewDetails: "Voir les détails",
         postJob: "Publier une offre",
-        newJobsWeekly: "✨ Nouvelles offres ajoutées chaque semaine"
+        newJobsWeekly: "✨ Nouvelles offres ajoutées chaque semaine",
+        newJobsThisWeek: "Nouveaux postes cette semaine",
+        openPositions: "Postes ouverts",
+        organizations: "Organisations",
+        filterAll: "Tous",
+        latestOpportunities: "Dernières opportunités",
+        postJobShort: "Publier"
     }
 };

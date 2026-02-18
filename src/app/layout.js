@@ -1,10 +1,10 @@
-import { Plus_Jakarta_Sans } from "next/font/google";
+import { Inter } from "next/font/google";
 import "./globals.css";
 import { LanguageProvider } from "../context/LanguageContext";
+import Navbar from "../components/Navbar";
 
-const fontSans = Plus_Jakarta_Sans({
+const fontSans = Inter({
   subsets: ["latin"],
-  weight: ['400', '500', '600', '700', '800'],
   variable: '--font-sans',
 });
 
@@ -18,6 +18,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={fontSans.className}>
         <LanguageProvider>
+          <Navbar />
           {children}
         </LanguageProvider>
       </body>
