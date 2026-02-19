@@ -12,11 +12,16 @@ export default function Home() {
     if (!searchTerm) return jobsData;
 
     const lowerTerm = searchTerm.toLowerCase();
+    const toStr = (val) => {
+      if (val == null) return '';
+      if (Array.isArray(val)) return val.join(' ');
+      return String(val);
+    };
     return jobsData.filter(job =>
-      job.title.toLowerCase().includes(lowerTerm) ||
-      job.organization.toLowerCase().includes(lowerTerm) ||
-      job.location.toLowerCase().includes(lowerTerm) ||
-      job.description.toLowerCase().includes(lowerTerm)
+      toStr(job.title).toLowerCase().includes(lowerTerm) ||
+      toStr(job.organization).toLowerCase().includes(lowerTerm) ||
+      toStr(job.location).toLowerCase().includes(lowerTerm) ||
+      toStr(job.description).toLowerCase().includes(lowerTerm)
     );
   }, [searchTerm]);
 
