@@ -21,7 +21,7 @@ export default function Navbar() {
                 </Link>
 
                 <div className={styles.actions}>
-                    <a href="https://forms.google.com/placeholder" target="_blank" rel="noopener noreferrer" className={styles.postJobBtn}>
+                    <a href="https://forms.gle/XxQt3dk6D5DU4ipc6" target="_blank" rel="noopener noreferrer" className={styles.postJobBtn}>
                         <span className={styles.desktopText}>{t('postJob')}</span>
                         <span className={styles.mobileText}>{t('postJobShort')}</span>
                     </a>
