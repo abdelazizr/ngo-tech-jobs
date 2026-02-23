@@ -33,8 +33,8 @@ export default function Home() {
         jobCount={filteredJobs.length}
         organizationCount={new Set(filteredJobs.map(job => job.organization)).size}
         newJobsCount={jobsData.filter(job => {
-          if (!job.created_at || job.created_at === 'N/A') return false;
-          const date = new Date(job.created_at);
+          if (!job.added_at || job.added_at === 'N/A') return false;
+          const date = new Date(job.added_at);
           const oneWeekAgo = new Date();
           oneWeekAgo.setDate(oneWeekAgo.getDate() - 7);
           return date > oneWeekAgo;

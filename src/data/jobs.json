@@ -26,7 +26,8 @@
     "language": "en",
     "apply_url": "https://actionaidinternational.bamboohr.com/careers/226",
     "created_at": "",
-    "closing_date": "2026-02-26"
+    "closing_date": "2026-02-26",
+    "added_at": "2026-02-22"
   },
   {
     "id": 2,
@@ -59,7 +60,8 @@
     "employment_type": "Permanent",
     "language": "en",
     "apply_url": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/15356/apply/email?lastSelectedFacet=POSTING_DATES&selectedPostingDatesFacet=30",
-    "created_at": "2026-02-06"
+    "created_at": "2026-02-06",
+    "added_at": "2026-02-22"
   },
   {
     "id": 3,
@@ -95,7 +97,8 @@
     "employment_type": "Fixed-term (18 months)",
     "language": "en",
     "apply_url": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/15196/apply/email?lastSelectedFacet=POSTING_DATES&selectedPostingDatesFacet=30",
-    "created_at": "2026-01-29"
+    "created_at": "2026-01-29",
+    "added_at": "2026-02-22"
   },
   {
     "id": 4,
@@ -130,7 +133,8 @@
     "employment_type": "Permanent",
     "language": "en",
     "apply_url": "https://hcri.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs/preview/15194/apply/email?lastSelectedFacet=POSTING_DATES&selectedPostingDatesFacet=30",
-    "created_at": "2026-01-29"
+    "created_at": "2026-01-29",
+    "added_at": "2026-02-22"
   },
   {
     "id": 5,
@@ -178,7 +182,8 @@
     "employment_type": "Full-time",
     "language": "en",
     "apply_url": "https://jobs.smartrecruiters.com/AmrefHealthAfrica4/744000107730237-network-administrator",
-    "created_at": "N/A"
+    "created_at": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 6,
@@ -213,7 +218,8 @@
     "employment_type": "Full-time",
     "language": "en",
     "apply_url": "https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Director-of-Cloud-Strategy-and-Operations_JR38192",
-    "created_at": "N/A"
+    "created_at": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 7,
@@ -281,7 +287,8 @@
     "employment_type": "Full-time",
     "language": "en",
     "apply_url": "https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Digital-Workplace-Analyst_JR48103",
-    "created_at": "N/A"
+    "created_at": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 8,
@@ -319,7 +326,8 @@
     "employment_type": "Full-time",
     "language": "en",
     "apply_url": "https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Network-and-Security-Analyst_JR42498",
-    "created_at": "N/A"
+    "created_at": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 9,
@@ -354,7 +362,8 @@
     "employment_type": "Full-time",
     "language": "en",
     "apply_url": "https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Cloud-Database-Administrator--Cloud-DBA-_JR43348",
-    "created_at": "N/A"
+    "created_at": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 10,
@@ -394,7 +403,8 @@
     "employment_type": "Full-time",
     "language": "en",
     "apply_url": "https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Senior-Manager--Digital-Platforms---Infrastructure-Applications-Management_JR43353",
-    "created_at": "N/A"
+    "created_at": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 11,
@@ -425,7 +435,8 @@
     "employment_type": "Full-time",
     "language": "en",
     "apply_url": "https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Customer-Support-Analyst_JR47013",
-    "created_at": "N/A"
+    "created_at": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 12,
@@ -463,7 +474,8 @@
     "language": "en",
     "apply_url": "https://ngojobsinafrica.com/job/country-data-collection-team-leads-libya-somalia-kenya-opt-gaza/",
     "created_at": "February 14, 2026",
-    "closing_date": "Rolling basis"
+    "closing_date": "Rolling basis",
+    "added_at": "2026-02-22"
   },
   {
     "id": 13,
@@ -496,7 +508,8 @@
     "language": "en",
     "apply_url": "https://ngojobsinafrica.com/job/information-and-communications-technology-ict-officer-p2-ndjamena-chad/",
     "created_at": "February 12, 2026",
-    "closing_date": "February 24, 2026"
+    "closing_date": "February 24, 2026",
+    "added_at": "2026-02-22"
   },
   {
     "id": 14,
@@ -526,7 +539,8 @@
     "language": "en",
     "apply_url": "https://ngojobsinafrica.com/job/tupande-sap-admin-ops-qc-coordinator/",
     "created_at": "February 7, 2026",
-    "closing_date": "February 28, 2026"
+    "closing_date": "February 28, 2026",
+    "added_at": "2026-02-22"
   },
   {
     "id": 15,
@@ -555,7 +569,8 @@
     "language": "en",
     "apply_url": "https://job-boards.greenhouse.io/oafkenya?error=true",
     "created_at": "February 7, 2026",
-    "closing_date": "April 1, 2026"
+    "closing_date": "April 1, 2026",
+    "added_at": "2026-02-22"
   },
   {
     "id": 16,
@@ -571,7 +586,8 @@
     "language": "en",
     "apply_url": "https://ngojobsinafrica.com/job/case-management-data-senior-specialist/",
     "created_at": "February 4, 2026",
-    "closing_date": "March 4, 2026"
+    "closing_date": "March 4, 2026",
+    "added_at": "2026-02-22"
   },
   {
     "id": 17,
@@ -607,7 +623,8 @@
     "language": "en",
     "apply_url": "https://jobs-jhpiego.icims.com/jobs/search?ss=1&notFound=1&mobile=false&width=1524&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
     "created_at": "N/A",
-    "closing_date": "N/A"
+    "closing_date": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 18,
@@ -639,7 +656,8 @@
     "language": "en",
     "apply_url": "https://refugepoint.applicantstack.com/x/detail/a25lemtjzzfn",
     "created_at": "N/A",
-    "closing_date": "N/A"
+    "closing_date": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 19,
@@ -683,7 +701,8 @@
     "language": "en",
     "apply_url": "https://oneacrefund.org/vacancies/uganda-data-and-systems-lead-fixed-term?gh_jid=7486513&gh_src=rxz23gpj1us",
     "created_at": "N/A",
-    "closing_date": "19 March 2026"
+    "closing_date": "19 March 2026",
+    "added_at": "2026-02-22"
   },
   {
     "id": 20,
@@ -718,7 +737,8 @@
     "language": "en",
     "apply_url": "https://mariestopes.org.et/wp-content/uploads/sites/25/2022/06/MSIE-Job-Application-Form.pdf",
     "created_at": "N/A",
-    "closing_date": "28 February 2026"
+    "closing_date": "28 February 2026",
+    "added_at": "2026-02-22"
   },
   {
     "id": 21,
@@ -757,7 +777,8 @@
     "language": "en",
     "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8261b9ff-695c-4b5d-9a47-28313687b567&ccId=19000101_000001&type=MP&lang=en_US&jobId=534350",
     "created_at": "2026-02-07",
-    "closing_date": "N/A"
+    "closing_date": "N/A",
+    "added_at": "2026-02-22"
   },
   {
     "id": 22,
@@ -798,7 +819,8 @@
     "language": "en",
     "apply_url": "https://path.wd1.myworkdayjobs.com/External/job/Nigeria-Abuja-Project-Office/Data-Analytics-Fellow--Malaria-Control-and-Elimination-Partnership-in-Africa--MACEPA-_JR2416?source=ngojobsinafrica",
     "created_at": "N/A",
-    "closing_date": "27 February 2026"
+    "closing_date": "27 February 2026",
+    "added_at": "2026-02-22"
   },
   {
     "id": 23,
@@ -831,6 +853,7 @@
     "language": "en",
     "apply_url": "https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Nairobi-IHUB-Kenya/IT-Support-Specialist_JR00002029",
     "created_at": "N/A",
-    "closing_date": "18 March 2026"
+    "closing_date": "18 March 2026",
+    "added_at": "2026-02-22"
   }
 ]
