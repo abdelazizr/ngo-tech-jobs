@@ -133,7 +133,7 @@
     "created_at": "2026-01-29"
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "Network Administrator",
     "organization": "Amref International University",
     "location": "Nairobi, Kenya",
@@ -181,7 +181,7 @@
     "created_at": "N/A"
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "Cloud Architect",
     "organization": "World Vision International",
     "location": "Ghana, Kenya (Hybrid/Remote)",
@@ -212,11 +212,11 @@
     "salary_range": "Competitive",
     "employment_type": "Full-time",
     "language": "en",
-    "apply_url": "[https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Director-of-Cloud-Strategy-and-Operations_JR38192](https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Director-of-Cloud-Strategy-and-Operations_JR38192)",
+    "apply_url": "https://worldvision.wd1.myworkdayjobs.com/en-US/WorldVisionInternational/job/Director-of-Cloud-Strategy-and-Operations_JR38192",
     "created_at": "N/A"
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "Digital Workplace Analyst",
     "organization": "World Vision International",
     "location": "Nairobi, Kenya",
@@ -284,7 +284,7 @@
     "created_at": "N/A"
   },
   {
-    "id": 9,
+    "id": 8,
     "title": "Network and Security Analyst",
     "organization": "World Vision International",
     "location": "Kigali, Rwanda",
@@ -322,7 +322,7 @@
     "created_at": "N/A"
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "Cloud Database Administrator (Cloud DBA)",
     "organization": "World Vision International",
     "location": "Home Working, Kenya",
@@ -357,7 +357,7 @@
     "created_at": "N/A"
   },
   {
-    "id": 11,
+    "id": 10,
     "title": "Senior Manager, Digital Platforms & Infrastructure Applications Management",
     "organization": "World Vision International",
     "location": "Home Working, Kenya",
@@ -397,7 +397,7 @@
     "created_at": "N/A"
   },
   {
-    "id": 12,
+    "id": 11,
     "title": "Customer Support Analyst",
     "organization": "World Vision International",
     "location": "Lusaka, Zambia",
@@ -428,54 +428,12 @@
     "created_at": "N/A"
   },
   {
-    "id": 13,
-    "title": "IT Operations Assistant",
-    "organization": "International Institute of Tropical Agriculture",
-    "location": "Ibadan, Oyo State Nigeria",
-    "description": [
-      "The International Institute of Tropical Agriculture (IITA) is a not-for-profit institution that generates agricultural innovations to meet Africa’s most pressing challenges of hunger, malnutrition, poverty, and natural resource degradation"
-    ],
-    "full_description": [
-      "The International Institute of Tropical Agriculture (IITA) is a not-for-profit institution that generates agricultural innovations to meet Africa’s most pressing challenges of hunger, malnutrition, poverty, and natural resource degradation. Working with various partners across sub-Saharan Africa, we improve livelihoods, enhance food and nutrition security, increase employment, and preserve natural resource integrity. IITA is a member of CGIAR, a global agriculture research partnership for a food secure future"
-    ],
-    "requirements": [
-      "HND / Bachelor's Degree in Computer Science / Engineering, Electrical/ Mechanical Engineering, Information Technology or related field with a minimum of two (2) years' experience performing a similar role in a well-structured environment.",
-      "The ideal candidate must:",
-      "Display excellent client relation, and Management",
-      "Have good Customer Services, Relation and communication skills.",
-      "Have sound knowledge of Microsoft Client Technologies Management Windows (10,11) and MacOS."
-    ],
-    "responsibilities": [
-      "Accurately document instances of hardware failure, repair, installation and removal and pass them to the Supervisor where necessary.",
-      "Repair computers, peripherals, network equipment, software, printers and A/V systems that require specialized computer and electronic repair skills to maintain computer and network equipment safely and in a functional operating system.",
-      "Perform desktop fixes, including installing, upgrading, configuring parameters, systems and application software and ensure that the anti-virus software and virus definitions are up-to-date.",
-      "Work on assigned tickets already logged via the institutional helpdesk – Freshworks",
-      "Log, receive and respond to incident/ request/ problem on Freshworks.",
-      "Follow-up on all tickets assigned and from end-user to completion and resolutions.",
-      "Ensure that all requests and enquiries on IT matters and activities are promptly attended to and closed correctly with the appropriate response to the satisfaction of the customer.",
-      "Work with end-users to identify and deliver required PC service levels.",
-      "Asses malfunction of computer hardware of software applications to determine appropriate action to maintain computer and network operations.",
-      "Perform any other duty as may be directed by the Supervisor."
-    ],
-    "salary_range": "N/A",
-    "employment_type": "Contract (On-site)",
-    "language": "en",
-    "apply_url": "https://ngojobsinafrica.com/job/it-operations-assistant-4/",
-    "created_at": "February 14, 2026",
-    "closing_date": "February 21, 2026"
-  },
-  {
-    "id": 14,
+    "id": 12,
     "title": "Country Data Collection Team Leads – Libya, Somalia, Kenya, OPT (Gaza)",
     "organization": "Ektimisi",
     "location": "Kenya, Libya, Somalia",
     "description": "Ektimisi is seeking Country Team Leads based in Libya, Somalia, Kenya, and OPT (Gaza)",
-    "full_description": [
-      "Ektimisi is seeking Country Team Leads based in Libya, Somalia, Kenya, and OPT (Gaza) who possess:",
-      "Valid legal registration allowing them to operate and collect data in-country",
-      "An established local field team capable of conducting data collection activities",
-      "The Country Team Lead will coordinate field enumerators, manage data-collection operations, ensure quality assurance, and serve as the primary operational focal point for assignments implemented in their country of registration."
-    ],
+    "full_description": "Ektimisi is seeking Country Team Leads based in Libya, Somalia, Kenya, and OPT (Gaza) who possess: Valid legal registration allowing them to operate and collect data in-country An established local field team capable of conducting data collection activities The Country Team Lead will coordinate field enumerators, manage data-collection operations, ensure quality assurance, and serve as the primary operational focal point for assignments implemented in their country of registration.",
     "requirements": [
       "Legal registration (organization or company) permitting research and data-collection activities in Libya, Somalia, Kenya, or Gaza.",
       "Operational field team with proven capacity to conduct surveys, KIIs, FGDs, or similar data-collection methodologies.",
@@ -508,17 +466,12 @@
     "closing_date": "Rolling basis"
   },
   {
-    "id": 15,
+    "id": 13,
     "title": "Information and Communications Technology (ICT) Officer (P2) N'Djamena, Chad",
     "organization": "International Organization for Migration (IOM)",
     "location": "N'Djamena, Chad",
     "description": "Applications are welcome from first- and second-tier candidates, particularly qualified female candidates as well as applications from the non-represented member countries of IOM.",
-    "full_description": [
-      "Applications are welcome from first- and second-tier candidates, particularly qualified female candidates as well as applications from the non-represented member countries of IOM. For all IOM vacancies, applications from qualified and eligible first-tier candidates are considered before those of qualified and eligible second-tier candidates in the selection process.",
-      "For the purpose of this vacancy, the following are considered first-tier candidates:",
-      "Internal candidates Candidates from the following IOM Member States that are not represented among staff members in the Professional and higher categories: Antigua and Barbuda, Bahamas, Barbados, Comoros, Congo (the), Cook Islands, Dominica, Federated States of Micronesia, Grenada, Guinea-Bissau, Holy See, Iceland, Israel, Kiribati, Marshall Islands, Namibia, Nauru, Palau, Saint Kitts and Nevis, Saint Lucia, Samoa, Sao Tome and Principe, Seychelles, Solomon Islands, Suriname, Tonga, Tuvalu, Vanuatu",
-      "Second tier candidates include: All external candidates, except candidates from non-represented member states of IOM."
-    ],
+    "full_description": "Applications are welcome from first- and second-tier candidates, particularly qualified female candidates as well as applications from the non-represented member countries of IOM. For all IOM vacancies, applications from qualified and eligible first-tier candidates are considered before those of qualified and eligible second-tier candidates in the selection process. For the purpose of this vacancy, the following are considered first-tier candidates: Internal candidates Candidates from the following IOM Member States that are not represented among staff members in the Professional and higher categories: Antigua and Barbuda, Bahamas, Barbados, Comoros, Congo (the), Cook Islands, Dominica, Federated States of Micronesia, Grenada, Guinea-Bissau, Holy See, Iceland, Israel, Kiribati, Marshall Islands, Namibia, Nauru, Palau, Saint Kitts and Nevis, Saint Lucia, Samoa, Sao Tome and Principe, Seychelles, Solomon Islands, Suriname, Tonga, Tuvalu, Vanuatu Second tier candidates include: All external candidates, except candidates from non-represented member states of IOM.",
     "requirements": [
       "Master's degree in Computer Science, Information Management, Information Technology, or a related field from an accredited academic institution with two years of relevant professional experience; or,",
       "University degree in the above fields with four years of relevant professional experience."
@@ -546,74 +499,7 @@
     "closing_date": "February 24, 2026"
   },
   {
-    "id": 16,
-    "title": "Digital and Innovation Assistant",
-    "organization": "ForAfrika",
-    "location": "Uganda",
-    "description": "The Digital and Innovation Assistant will support the SMART Centre Project by managing digital systems, driving technology-based solutions, and providing training to staff, farmer cooperatives, and other stakeholders. This role ensures the effective use of digital tools, promotes digital literacy, and oversees all project digital activities, including the management of the computer training lab.\n\nBe able to trouble shoot all ICT related functions for the Centre as well as backs",
-    "full_description": "The Digital and Innovation Assistant will support the SMART Centre Project by managing digital systems, driving technology-based solutions, and providing training to staff, farmer cooperatives, and other stakeholders. This role ensures the effective use of digital tools, promotes digital literacy, and oversees all project digital activities, including the management of the computer training lab.\n\nBe able to trouble shoot all ICT related functions for the Centre as well as backstopping for the entire country office locations when required.\n\nKey Roles and Responsibilities:\n1. Digital Systems and Innovation Management\n2. Training and Capacity Building\n3. Computer Lab Management\n4. Data Management and Reporting\n5. Support Functions",
-    "requirements": [
-      "Diploma or bachelor's degree in information technology, Computer Science, Digital Innovation, Business Information Systems, or a related field.",
-      "At least 2 years of experience in digital systems management, IT support, training, or innovation-related roles.",
-      "Experience in NGOs, community development, or agricultural projects is preferred.",
-      "Experience training adult learners, farmer groups, or community stakeholders in digital skills.",
-      "Strong digital literacy and proficiency in software applications (MS Office, Google Workspace, digital apps).",
-      "Experience in digital marketing and online communication tools.",
-      "Ability to train and support staff, farmer groups, and stakeholders in technology adoption.",
-      "Basic IT troubleshooting and lab management skills.",
-      "Strong organizational, reporting, and multitasking skills.",
-      "Problem-solving mindset and ability to implement innovative solutions."
-    ],
-    "responsibilities": [
-      "Maintain, update, and secure project digital platforms, databases, and tools.",
-      "Oversee all digital activities within the project to ensure efficiency and innovation.",
-      "Identify opportunities to improve project processes through technology and digital solutions.",
-      "Train staff, farmer cooperatives/groups, and other stakeholders on computer technology basics, digital marketing techniques, and use of digital apps and platforms.",
-      "Promote digital literacy and innovation among project participants.",
-      "Manage the computer training lab, including scheduling, maintenance, and security of equipment.",
-      "Collect, organize, and maintain project data in digital formats.",
-      "Prepare digital reports, dashboards, and visualizations to support decision-making.",
-      "Assist with digital communications, online outreach, and social media where necessary.",
-      "Support procurement, logistics, and administrative functions with digital tracking and reporting."
-    ],
-    "salary_range": "N/A",
-    "employment_type": "Fixed Term",
-    "language": "en",
-    "apply_url": "https://ngojobsinafrica.com/job/digital-and-innovation-assistant/",
-    "created_at": "February 11, 2026",
-    "closing_date": "February 19, 2026"
-  },
-  {
-    "id": 17,
-    "title": "Information Management Officer",
-    "organization": "United Nations Children's Fund (UNICEF)",
-    "location": "Maiduguri, Borno, Nigeria",
-    "description": "To qualify as an advocate for every child you will have:\n\nEducational Qualification:\n- University Degree in Nutrition, Public Health, Epidemiology, Statistics or computer science/engineering or a related field with a nutrition focus.\n\nExperience:\n- Minimum of 2 years of professional experience in public health, nutrition, knowledge/data management or related field.\n- Strong knowledge of the programme and operating context in Northeast Nigeria is highly desirable.\n- Experience of nutrition data c",
-    "full_description": "To qualify as an advocate for every child you will have:\n\nEducational Qualification:\n- University Degree in Nutrition, Public Health, Epidemiology, Statistics or computer science/engineering or a related field with a nutrition focus.\n\nExperience:\n- Minimum of 2 years of professional experience in public health, nutrition, knowledge/data management or related field.\n- Strong knowledge of the programme and operating context in Northeast Nigeria is highly desirable.\n- Experience of nutrition data collection, with extensive experience compiling and analyzing quantitative and qualitative data.\n- Proven experience in synthesizing relevant nutrition-related information and developing reports.",
-    "requirements": [
-      "University Degree in Nutrition, Public Health, Epidemiology, Statistics or computer science & engineering or a related field with a nutrition focus.",
-      "Minimum of 2 years of professional experience in public health, nutrition, knowledge data management or related field in the country, experience of working in a humanitarian context and UN agencies will be an asset.",
-      "Strong knowledge of, and working familiarity with, the programme and operating context in Northeast Nigeria is highly desirable.",
-      "Experience of nutrition data collection, with extensive experience, compiling and analyzing quantitative and qualitative data and producing relevant graphical presentations of analysed data is mandatory.",
-      "Proven experience in synthesizing relevant nutrition-related information and developing reports on time against set deadlines for the dissemination of key findings to technical and non-technical audiences is required.",
-      "Fluency in English is required. Knowledge of the working language of the duty station as an asset."
-    ],
-    "responsibilities": [
-      "Accountabilities, and Related Duties/Tasks",
-      "Under the direct supervision of the Nutrition Manager, the Information Management Officer (IMO, DAE) will support in designing, planning and monitoring of nutrition assessments per national and international guidelines:",
-      "Information Management Situation Monitoring, Assessment",
-      "Evidence Generation and Knowledge Management: Support to programme development, planning, monitoring and advocacy",
-      "Coordination and representation"
-    ],
-    "salary_range": "N/A",
-    "employment_type": "Temporary Appointment",
-    "language": "en",
-    "apply_url": "https://ngojobsinafrica.com/job/information-management-officer-59/",
-    "created_at": "February 7, 2026",
-    "closing_date": "February 18, 2026"
-  },
-  {
-    "id": 18,
+    "id": 14,
     "title": "Tupande SAP Admin & Ops QC Coordinator",
     "organization": "One Acre Fund",
     "location": "Kenya",
@@ -643,7 +529,7 @@
     "closing_date": "February 28, 2026"
   },
   {
-    "id": 19,
+    "id": 15,
     "title": "Tupande SAP Data Entry and Operations Admin – Senior Officer (Fixed-Term)",
     "organization": "One Acre Fund",
     "location": "Kenya",
@@ -672,51 +558,7 @@
     "closing_date": "April 1, 2026"
   },
   {
-    "id": 20,
-    "title": "FEWS NET Uganda Country Technical Senior Specialist – Conflict",
-    "organization": "Chemonics International Inc",
-    "location": " Kampala, Uganda",
-    "description": "The Famine Early Warning Systems Network (FEWS NET) is an integrated set of activities funded by the United States Government (USG) and is intended to provide timely, accurate, evidence-based, and transparent food insecurity early warning information and analysis",
-    "full_description": "The Famine Early Warning Systems Network (FEWS NET) is an integrated set of activities funded by the United States Government (USG) and is intended to provide timely, accurate, evidence-based, and transparent food insecurity early warning information and analysis. Created in 1985 in response to famines in East and West Africa, FEWS NET provides global coverage of acute food insecurity. FEWS NET’s work is implemented across several mechanisms by a team of partners that includes the National Aeronautics and Space Administration (NASA), the National Oceanic and Atmospheric Administration (NOAA), the United States Department of Agriculture (USDA), the United States Geological Survey (USGS), the University of California-Santa Barbara’s Climate Hazards Center (UCSB-CHC), University of Maryland’s Department of Geographical Sciences, American Institutes for Research (AIR), and Chemonics International (Chemonics). Chemonics implements FEWS NET’s Decision Support Team (DST), which is charged with providing integrated monitoring and analyses of current and forecast acute food insecurity in countries worldwide to support the United States Government’s (USG) policy and programmatic decisions. The DST operates through a Washington-based technical office, regional FEWS NET offices, and national staff presence in sub-Saharan Africa, the Middle East, Asia, Latin America, and eastern Europe. ",
-    "requirements": [
-      "A bachelor’s degree in a discipline relevant to the work of FEWS NET, such as peace/conflict studies, international relations, political science, economics, agricultural economics, agronomy, climatology, anthropology, or social geography, is required; an advanced university degree (Master’s degree or higher) is desirable.",
-      "At least five years of relevant experience (with a Master’s degree), or seven years of relevant experience (with a Bachelor’s degree) is required.",
-      "Proficiency in written and spoken English is required; other local language skills relevant to the country are desirable.",
-      "Excellent planning, organizational, analytical, and report-writing skills",
-      "Demonstrated ability to work effectively with others at all levels, including an ability to effectively liaise with supervisors, national and sub-nationally government authorities, UN, NGO, and other relevant stakeholders, and an ability to coordinate effectively with remote colleagues",
-      "Excellent computer skills, GIS applications, and mapping skills are desirable",
-      "In-depth knowledge of context, dynamics and stakeholders in Uganda",
-      "Unrestricted work authorization in Uganda"
-    ],
-    "responsibilities": [
-      "Providing early warning analysis of conflict, and enhancing the project’s understanding of potential drivers of conflict",
-      "Reviewing and providing guidance and inputs on conflict forecasts as a critical input to the Food Security Outlook and Food Security Outlook Update reports in collaboration with regional and country-level technical specialists to ensure alignment between conflict, livelihoods, agroclimatology, and markets and trade analyses",
-      "Monitoring, assessing, and analyzing social, political, and/or economic events that are likely to have an impact on the trajectory or intensity of conflict for integration into conflict projections",
-      "Supporting the collection, organization, and storage of primary and secondary conflict-related data and information, as directed, in support of the project’s integrated food security analysis and reporting",
-      "Developing a strong subject matter expertise on political and conflict dynamics in the country.",
-      "As directed by the Regional Technical Senior Specialist for Conflict (RTSS-C), engaging with the other mechanisms of FEWS NET and network partners to ensure the integration of available conflict-related analyses into the DST’s analyses and products, and to support the project’s continued development of conflict analysis approaches, tools, and guidance",
-      "Contributing to the FEWS NET DST’s efforts to identify as early as possible potential or emerging conflict-related shocks as they pertain to acute food insecurity",
-      "Under the guidance of the CTL, supporting the fulfilment of designated requirements related to food security analyses (FSOs, FSOUs, FAOB input) and monthly reporting, including providing critical inputs to the Food Security Outlooks (FSOs), FSO Updates, Price Watch, and Mey Messages; contributing to Food Assistance Outlook Brief reports; and providing briefings to national and sub-national partners",
-      "Supporting the CTL in meeting USG’s expectations on timely delivery of national and sub-national decision support products, which include, but are not limited to: delivery of monthly reporting for all presence countries no later than 7 days after the last day of the reporting month; responding to urgent questions on acute food insecurity within one day; and providing briefings within one week of request",
-      "Supporting the CTL and CTM where relevant, in maintaining a national and sub-national knowledge base comprised of, at a minimum, livelihood zone profiles, commodity trade flow maps, seasonal monitoring calendars, commodity price data, nutrition data, security monitoring, conflict data, migration, remittances, labor, humanitarian food assistance, and other technical data covering rainfall, agricultural production, population, etc., in collaboration with other FEWS NET 8 implementing partners, as applicable",
-      "With support from the CTL, overseeing the collection of data by in-country enumerators or field monitors and liaising with the Regional Data Coordinator to ensure effective management (cleaning, storage, uploading, etc.) of all field data/information, and uploading to the FEWS NET Data Warehouse (FDW) where relevant",
-      "Providing input into developing and updating national and sub-national seasonal monitoring plans and participating in national and sub-national acute food insecurity monitoring, as applicable",
-      "Supporting proactive, high, and effective early warning of acute threats to food security at the national and sub-national levels, and supporting efforts to mitigate acute food insecurity and prevent food crises through effective communication of actionable food security analysis",
-      "Supporting collaboration with Regional Technical Senior Specialists (RTSSs) to improve the integration of conflict into regular and ad hoc decision support products",
-      "Developing and maintaining strong collaborative national and sub-national relations, both formal and informal, with USG representatives, US Embassy technical contacts, UN agency representatives, government ministry staff, and key international, regional, and national NGO counterparts to facilitate technical exchanges, promote consensus-building, and facilitate joint, coordinated actions to mitigate food insecurity.  ",
-      "Conducting regular independent and joint field assessments of food security conditions in areas of most concern in the country, under the guidance of the CTL",
-      "Collaborating with partners in food security monitoring and analysis in the country, including through participation in the Integrated Food Security Phase Classification (IPC) or Cadre Harmonisé (CH) protocols, as well as representing the project at formal and informal meetings, as delegated by the CTL",
-      "Any other support as directed by the CTL, including supporting the development of annual workplans, organization of project documentation, contributing to information products, participating in network development and capacity strengthening efforts"
-    ],
-    "salary_range": "N/A",
-    "employment_type": "Fixed Term",
-    "language": "en",
-    "apply_url": "https://chemonicsinternational-accna.formstack.com/forms/uganda_country_technical_sr_specialist_conflict",
-    "created_at": "February 5, 2026",
-    "closing_date": "February 18, 2026"
-  },
-  {
-    "id": 21,
+    "id": 16,
     "title": "Case Management Data Senior Specialist",
     "organization": "International Rescue Committee",
     "location": "Kenya",
@@ -732,52 +574,7 @@
     "closing_date": "March 4, 2026"
   },
   {
-    "id": 22,
-    "title": "Application Manager – Single Data Entry (SDE)",
-    "organization": "Médecins Sans Frontières",
-    "location": "Nairobi, Kenya",
-    "description": "The primary role of the Case Management Data Senior Specialist is to strengthen the quality and use of case management data and information management systems (IMS) across IRC programming. ",
-    "full_description": "The primary role of the Case Management Data Senior Specialist is to strengthen the quality and use of case management data and information management systems (IMS) across IRC programming. Key functions of this role include working with technical leads to maintain centralized guidance and protocols on case management IMS and data; supporting country teams with resources and system administration, rollout, and training for the Primero digital platform and other related platforms; streamlining and conducting regular data analysis across IMS platforms and protection streams; and engaging with global and country teams to gather feedback and provide targeted troubleshooting. In addition to this routine support, the Senior Specialist will also contribute to wider VPRU case management and learning strategy discussions, as well as external discussions on case management IMS and data practices.",
-    "requirements": [
-      "Specific experience with case management systems (particularly for gender-based violence, child protection, or protection rule of law) and/or protection programming, ideally in humanitarian contexts",
-      "Strong experience with programmatic data collection, management, and analysis, including multiple data collection platforms and strong Excel skills",
-      "Ability to generate high quality guidance and analysis documents that demonstrate attention to detail, strong understanding of best data practices, and are appropriate for end users",
-      "Strong organizational skills and ability to balance multiple priorities across a diverse portfolio",
-      "Excellent verbal and written communication skills, including an ability to be clear and concise",
-      "Strong interpersonal skills: able to successfully listen to, collaborate with, facilitate discussion among, and build trust with people from diverse nationalities and backgrounds"
-    ],
-    "responsibilities": [
-      "Provide centralized resources and support to ensure IRC teams have quality case management data systems and clear standards",
-      "Develop and update comprehensive resources to strengthen teams’ understanding, use, and practice of case management IMS",
-      "Maintain overall visibility and documentation on the state of IMS in each country and region and upcoming activities, in collaboration with technical teams",
-      "Proactively collect feedback on IMS use and user needs, and identify challenges and solutions",
-      "Provide guidance on data protection standards and expectations for case management",
-      "Ensure clear connections between case management IMS and IRC MEAL systems",
-      "Stay informed about emerging technologies and trends in case management systems, and advocate for necessary upgrades and enhancements as needed/feasible",
-      "Provide direct technical support and system administration to country programs",
-      "Support specific countries with rollout and configuration of Primero and other IMS platforms based on country needs (including through projects)",
-      "Act as the system administrator and focal point for country programs utilizing protection-related information systems, including IRC instances of Primero",
-      "Support ongoing training and capacity building on case management IMS with country program colleagues and VPRU technical advisors (TAs)",
-      "Respond to requests for information sharing that follow IRC’s data protection standards",
-      "Support regular data analysis and use of case management data by IRC programmatic teams",
-      "Conduct regular and ad hoc analysis of case management data across protection streams and countries, including data compilation and cleaning",
-      "Work with VPRU MEAL colleagues to streamline and harmonize case management measurement frameworks across protection streams",
-      "Build capacity of technical advisors, regional colleagues, and country program colleagues to regularly analyze and use data to strengthen the quality of case management",
-      "Triangulate case management data with other IRC data sources, e.g. Annual Statistics",
-      "With VPRU MEAL Lead and technical leads, support strategy and vision for case management IMS for the IRC (across platforms, protection streams, and countries)",
-      "Coordinate internally with IRC MEAL and Technology for Programs colleagues ",
-      "With technical leads, track updates and co-represent IRC in external spaces related to case management IMS (e.g. inter-agency steering committees, Primero Board, etc.)",
-      "Input into business development related to case management IMS, as appropriate"
-    ],
-    "salary_range": "N/A",
-    "employment_type": "Fixed Term",
-    "language": "en",
-    "apply_url": "https://theirc.wd1.myworkdayjobs.com/External_Careers/job/New-York-NY-HQ-USA/Case-Management-Data-Senior-Specialist_JR00001854",
-    "created_at": "February 3, 2026",
-    "closing_date": "February 17, 2026"
-  },
-  {
-    "id": 23,
+    "id": 17,
     "title": "Strategic Information Advisor",
     "organization": "Jhpiego, an Affiliate of Johns Hopkins University",
     "location": "Abuja, Nigeria",
@@ -813,7 +610,7 @@
     "closing_date": "N/A"
   },
   {
-    "id": 24,
+    "id": 18,
     "title": "Senior Officer Graphic Designer",
     "organization": "RefugePoint",
     "location": "Nairobi, Kenya",
@@ -845,51 +642,7 @@
     "closing_date": "N/A"
   },
   {
-    "id": 26,
-    "title": "Uganda Data and Systems Lead (Fixed Term)",
-    "organization": "One Acre Fund",
-    "location": "Jinja, Uganda - Hybrid",
-    "description": "As the Data, Analytics & Systems Lead, you will oversee strategic Data and Systems projects. You will make data-driven recommendations and oversee systems initiatives that increase program impact and improve our daily operations in terms of farmer adoption, repayment, market access and input logistics",
-    "full_description": "As the Data, Analytics & Systems Lead, you will oversee strategic Data and Systems projects. You will make data-driven recommendations and oversee systems initiatives that increase program impact and improve our daily operations in terms of farmer adoption, repayment, market access and input logistics. You will perform high-level statistical and business analyses, and provide solutions and recommendations to improve our program's operational performance. You will manage and develop data collection protocols, business performance indicators, and leverage industry trends, market intelligence, and customer information to develop analytical tools, reports and models to inform and support decision-making. Success will be determined by the development and implementation of comprehensive analytical solutions to provide critical insights for decision-making, program-wide operational improvements and future business initiatives. You will manage a small team of Regional Data Analysts. You will also oversee a small Business Operations & Logistics team. You will regularly collaborate with different teams and departments, and will report to the C-suite. This will be a hybrid role; working flexibly as needed between the field, our regional offices, and remotely.",
-    "requirements": [
-      "Bachelor's degree in Statistics, Data Science, Analytics, Applied Mathematics, Quantitative Economics, or another relevant field.",
-      "5+ years of experience in a strategic data and/or analytical role.",
-      "Strong statistics and analytical skills in R, Advanced Excel / Google Sheets (can develop and maintain complex spreadsheets), CommCare, Kobo and other data collection, analysis and data visualization tools. Experience in SQL, Dataiku, Superset, and PowerBi will be an added bonus.",
-      "Critical and strategic thinking skills; with the ability to act fast and synthesize, translate qualitative and quantitative data into practical strategy recommendations and business needs into technical solutions.",
-      "Strong communication, writing, and interpersonal skills will also be important for the role.",
-      "Project management: Ability to balance multiple strategic projects and priorities at once, effectively collaborating across teams and functions to influence and quickly execute against strategy.",
-      "Proven experience managing and upskilling a team and a willingness to teach others"
-    ],
-    "responsibilities": [
-      "Program Data Management, Analytics & Business Intelligence",
-      "You'll develop and implement a data strategy that supports decision-making across different organizational departments.",
-      "You'll design and standardize data collection tools and processes, and manage field implementation of the same across teams and regions.",
-      "You'll develop and maintain single-source-of-truth program performance dashboards across teams and regions.",
-      "In collaboration with country leadership, you will monitor and effectively communicate cross-program performance and provide insights as well as corrective actions and recommendations to ensure organizational objectives are met.",
-      "You'll manage and analyze program performance data from multiple applications or sources, including field research; using this to prepare materials to support management meetings and decisions, such as summary performance highlights and deep-dive longitudinal trends to identify opportunities for execution improvement.",
-      "You'll develop performance management tools that look at teams' efficiency and effectiveness.",
-      "You will work with our Monitoring, Evaluation & Learning (MEL) team to integrate our in-season farmer data with our end-of-season MEL data across all regions to build a year-round narrative and understanding of our farmers and customers with respect to MEL's annual program impact evaluations and assessments.",
-      "You'll collaborate with program stakeholders and internal and external data teams to ensure and improve data availability, integrity, accuracy, and reliability.",
-      "You will work closely with the Global Data Team to develop and validate predictive models, forecasts or other program performance tools.",
-      "Innovations, R&D & Trial Management:",
-      "You'll manage Innovations data collection and analysis across ideation, R&D, field and farmer trials, and product scale and rollout; organizing, collaborating, and coordinating closely with various program teams and stakeholders on trial delivery and implementation.",
-      "Team Management & Data Skills Development:",
-      "You will manage and mentor a team of Regional Data Analysts and lead the recruitment of new analysts.",
-      "You will oversee the work of a small Business Operations & Logistics team and line manage its Team Lead. You will work with the Team Lead on ensuring technical platforms and processes support effective inventory management, efficient field team operations, and a positive client experience.",
-      "You will train and improve data management and analytical capabilities across regional teams and functions, developing survey design skills, data collection tool fluency, and data handling and analysis skills for the stakeholders across our teams that interface with data on a regular basis.",
-      "Run the annual goal setting and planning process for Data & Systems in line with the Uganda program vision and targets. Measure and report on progress against SMART OKRs.",
-      "Field Presence & Support:",
-      "You'll conduct regular field visits to regional operations to build field fluency, and to understand the operational and implementation context around incoming data, longitudinal trends, and emerging challenges."
-    ],
-    "salary_range": "N/A",
-    "employment_type": "N/A",
-    "language": "en",
-    "apply_url": "https://oneacrefund.org/vacancies/uganda-data-and-systems-lead-fixed-term?gh_jid=7486513&gh_src=rxz23gpj1us",
-    "created_at": "N/A",
-    "closing_date": "N/A"
-  },
-  {
-    "id": 27,
+    "id": 19,
     "title": "Uganda Data and Systems Lead (Fixed Term)",
     "organization": "One Acre Fund",
     "location": "Jinja, Uganda",
@@ -931,5 +684,153 @@
     "apply_url": "https://oneacrefund.org/vacancies/uganda-data-and-systems-lead-fixed-term?gh_jid=7486513&gh_src=rxz23gpj1us",
     "created_at": "N/A",
     "closing_date": "19 March 2026"
+  },
+  {
+    "id": 20,
+    "title": "IT Officer",
+    "organization": "Marie Stopes International",
+    "location": "Ethiopia",
+    "description": "Under the general Supervision of the Innovation & ICT Manager, the IT Officer performs overall ICT support",
+    "full_description": "Under the general Supervision of the Innovation & ICT Manager, the IT Officer performs overall ICT support and administration activities including end user support or troubleshooting, installation, configuration administration and management of ICT equipment like servers, desktops, laptops, printers, scanners, switches, UPS, routers, PBX system; supports the acquisition, implementation, and appropriate use of latest ICT technology (hardware, network, software or communication device).",
+    "requirements": [
+      "BSc in Computer Science, Information Technology, software engineering, electrical engineering, or other related fields",
+      "Three years of practical experience in the similar capacity on above listed areas.",
+      "Possession of thorough knowledge microcomputer hardware and software and LAN operating system, LAN based application software, security, communication, and diagnosis tools.",
+      "Good knowledge of IT systems, computer equipment operations management, hardware and software technology and must possess excellent interpersonal skills to maintain open communication.",
+      "Good knowledge of database systems",
+      "Strong clients focus and genuine desire to travel to remote areas and assist end users, analytical skills, persistence, good communication skills, able to work as part of team and, patient and tolerant, technical aptitude, methodical and disciplined approach to problem solving.",
+      "Willing to travel frequently to regional offices, centers and provide overall ICT support to MSIE end users.",
+      "Pro-choice"
+    ],
+    "responsibilities": [
+      "Responsible for first line user support and maintenance or troubleshooting, installation and configuration of PCs, Laptops, UPS, Printers, Scanners, projectors, administration of communication system.",
+      "Administers the organization LAN/WAN, installs, maintains, and upgrades hardware, software, services, and other networking components and monitors periodically.",
+      "Installs and tests software updates and patch programs to support various applications and various desktop, and laptop operation system.",
+      "Works on the preparation of technical specification and perform pro forma evaluation for ICT equipment and check delivery of ICT equipment as per the specification.",
+      "Performs data maintenance and integrity activities and ensuring system security and perform critical data backup regularly.",
+      "Facilitates and provides ICT technical service, advice, and support to all users of the organization and monitor availability, capacity and performance of the ICT infrastructure and applications in regional offices.",
+      "Ensures MSIE regional offices are linked through LAN/WAN systems and administers and provides support for Client management system that is being implemented in MSIE centers.",
+      "Provides on the job training to MSIE regional users to support the use of modern ICT in the organization and ensure regional staff to effectively communicate with support office.",
+      "Conducts other IT related assignments as required."
+    ],
+    "salary_range": "N/A",
+    "employment_type": "N/A",
+    "language": "en",
+    "apply_url": "https://mariestopes.org.et/wp-content/uploads/sites/25/2022/06/MSIE-Job-Application-Form.pdf",
+    "created_at": "N/A",
+    "closing_date": "28 February 2026"
+  },
+  {
+    "id": 21,
+    "title": "Digital & Technology Officer - ETH",
+    "organization": "Food for the Hungry",
+    "location": "FH Ethiopia / Batu and Nekempte",
+    "description": "The Digital and Technology Support Officer is responsible for managing and supporting FH's digital and technology ecosystem at the Area Program (AP) and all its communities to realize value for the shareholders and investors. This position plays a key role in planning, implementing and supporting ongoing operations and projects in support of the Digital and Technology ecosystem including hardware, software, internet connectivity, and end-user support.",
+    "full_description": "Job Summary: The Digital and Technology Support Officer is responsible for managing and supporting FH's digital and technology ecosystem at the Area Program (AP) and all its communities to realize value for the shareholders and investors. This position plays a key role in planning, implementing and supporting ongoing operations and projects in support of the Digital and Technology ecosystem including hardware, software, internet connectivity, and end-user support. The role includes partnering and supporting digital development initiatives focused on using digital and technology to empower communities, improving access to resources, and enhancing the organization's impact. FH Culture: All we do, and how we do it, seeks to promote God's beauty, goodness, and truth in a broken world. As such, we are defined by our ability to make people's lives measurably better; our ability to deliver impact is the measure of our collective success.",
+    "requirements": [
+      "Bachelor’s degree in Information Technology, Computer Science, Information Systems, Data, Digital or a related field preferred.",
+      "At least 3 years of experience in MIS coordination, digital ecosystem management, and device management, preferably within an INGO or non-profit organization.",
+      "Demonstrated experience in developing and implementing M&E frameworks and conducting data analysis for program evaluation.",
+      "Proven experience with digital tool selection, integration, and management."
+    ],
+    "responsibilities": [
+      "Coordinate procurement, distribution, and management of IT assets including WiFi networks, desktops, laptops, printers, and other office equipment at the AP level.",
+      "Support in maintenance of all desktop and laptop computers at the AP level including oversight of updates for operating systems, software application and endpoint protection.",
+      "Manage Technology tickets from arrival to resolution for both incidents and requests.",
+      "Contribute to development, implementation and management of risk mitigation plans including business continuity, safety of IT assets, and disaster recovery process.",
+      "Support regular security audits and vulnerability assessments.",
+      "Support in the implementation of IT policies and standards and monitoring their compliance.",
+      "Manage the installation and user support for all applications related to the AP and the digital ecosystem.",
+      "Ensure the availability, access, and effective management of FH digital devices for use by staff, volunteers, shareholders, and partners.",
+      "Act as the focal point for technical support ensuring that the AP teams and volunteers receive timely support and that the SLAs are met.",
+      "Support deployments, data migrations, and ongoing upgrades and maintenance of the digital platform and tools.",
+      "Support in deployment and monitoring of Mobile Device Management.",
+      "Facilitate implementation of digital initiatives and projects as part of the global roadmap and plans.",
+      "Gather user feedback to continually assess and improve systems and processes.",
+      "Support in monitoring and evaluation of the impact of digital initiatives and projects.",
+      "Champion the use of innovative digital approaches within the organization.",
+      "Provide training and support to staff, volunteers, shareholders and partners to ensure they are equipped to use digital tools effectively.",
+      "Promote the integration of FH's Culture within the digital ecosystem."
+    ],
+    "salary_range": "N/A",
+    "employment_type": "Full Time",
+    "language": "en",
+    "apply_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8261b9ff-695c-4b5d-9a47-28313687b567&ccId=19000101_000001&type=MP&lang=en_US&jobId=534350",
+    "created_at": "2026-02-07",
+    "closing_date": "N/A"
+  },
+  {
+    "id": 22,
+    "title": "Data Analytics Fellow, Malaria Control and Elimination Partnership in Africa (MACEPA)",
+    "organization": "PATH",
+    "location": "Abuja, Nigeria",
+    "description": "MACEPA is recruiting the third cohort of Data Analytics Fellows to be based with existing MACEPA teams across Africa; for this round the fellow will be recruited and based in Nigeria to support National Malaria Programs in data management, visualization and analysis to improve evidence-based decision-making, with tailored training and mentorship.",
+    "full_description": "MACEPA is recruiting the third cohort of Data Analytics Fellows, to be based within existing MACEPA teams across various African countries. For this round of recruitment, the fellow will be recruited and based in Nigeria where s/he originates from. The aim of the fellowship program is to train a cohort of skilled individuals to support the National Malaria Programs (NMPs) in the management, visualization and analysis of data to improve evidence-based decision-making. The fellow will receive a variety of tailored technical and professional training, alongside mentorship from the MACEPA data analytics team based in the US and in-country staff. By the end of the fellowship, a fellow will ultimately deliver data analytics training to NMPs in collaboration with the analytics team. The position is a fixed-term, non-renewable, eighteen-month contract.",
+    "requirements": [
+      "Master’s degree in public health, epidemiology, health-related data science or similar field preferred, plus at least one year of relevant quantitative experience.",
+      "Experience in data management, cleaning, analysis, mapping, and visualization (ideally in R).",
+      "Demonstrated oral and written communications skills, including report/paper writing and editing.",
+      "Experience preparing and delivering presentations.",
+      "Excellent organization, time management, attention to detail, ability to appropriately prioritize competing tasks, manage shifting priorities, and meet deadlines.",
+      "Ability to work in a collaborative environment and as part of a cross-disciplinary team.",
+      "Ability to work independently when required.",
+      "Ability to interact with global colleagues and partners.",
+      "Willingness and ability to travel, estimated at 10% of the time.",
+      "Female candidates are strongly encouraged to apply.",
+      "Preferred: experience working with DHIS2 or similar national surveillance database.",
+      "Preferred: experience developing, delivering or supporting training courses.",
+      "Preferred: experience using GitHub."
+    ],
+    "responsibilities": [
+      "Support NMP and partners to assemble and manage data repositories.",
+      "Design and implement evaluations of routine surveillance, intervention, and commodity data to inform decision-making.",
+      "Produce monthly reports describing the malaria situation based on analyses of routine data and other relevant datasets.",
+      "Develop dashboards for the visualization of routine data.",
+      "Build strong relationships with the NMP and respond to requests for data investigations and analyses relevant to key programmatic issues.",
+      "Contribute to and support the facilitation of data review meetings with the NMP.",
+      "Undertake structured training across a range of core areas including advanced data analytics, malaria epidemiology, presentation and report writing.",
+      "Deliver capacity strengthening in data analytics training to the NMP and local partners.",
+      "Support data aspects of Sub-National Tailoring (SNT) including assembling, cleaning, processing and visualizing data, and contributing to SNT meetings.",
+      "Maintain regular communication with US-based data analysis team, data analytics fellow’s cohort, and MACEPA in-country teams."
+    ],
+    "salary_range": "N/A",
+    "employment_type": "Full Time",
+    "language": "en",
+    "apply_url": "https://path.wd1.myworkdayjobs.com/External/job/Nigeria-Abuja-Project-Office/Data-Analytics-Fellow--Malaria-Control-and-Elimination-Partnership-in-Africa--MACEPA-_JR2416?source=ngojobsinafrica",
+    "created_at": "N/A",
+    "closing_date": "27 February 2026"
+  },
+  {
+    "id": 23,
+    "title": "IT Support Specialist",
+    "organization": "International Rescue Committee (IRC)",
+    "location": "Nairobi, Kenya (IHUB)",
+    "description": "The IT Support Specialist provides global end-user IT support, delivering Tier 1 and Tier 1.5 technical assistance to staff across regions.",
+    "full_description": "The Information Technology department supports the organization’s work by providing reliable and scalable application development and infrastructure for the IRC’s offices in the US and around the world, including many technologically challenging locations. The IT Support Specialist provides global end-user IT support across regions. This role delivers Tier 1 and tier 1.5 support. The specialist resolves technical incidents, requests, tasks, supports service improvements, and contributes to projects that enhance the end-user experience and service desk operations.",
+    "requirements": [
+      "Education: College degree or equivalent professional experience, or relevant IT certifications.",
+      "Experience: 1–3 years help desk or desktop support (troubleshooting, diagnostic skills).",
+      "Strong knowledge of enterprise desktop systems, Active Directory, Microsoft 365, Azure AD, networking fundamentals (TCP/IP, DNS, DHCP, VPN).",
+      "Excellent organizational, communication, customer service and multitasking skills.",
+      "Ability to work independently and collaboratively.",
+      "Experience with Service Desk tools and ticketing systems.",
+      "Willingness to work onsite with occasional remote flexibility."
+    ],
+    "responsibilities": [
+      "Provide Tier 1 and Tier 1.5 support to end users.",
+      "Maintain and manage documentation for incidents, resolutions, procedures, and assets.",
+      "Monitor and manage ticket queues, escalating issues when necessary.",
+      "Support onboarding/offboarding (accounts, access, equipment).",
+      "Troubleshoot hardware, software, connectivity, Microsoft 365 applications, VPNs, and network services.",
+      "Configure and support Windows and macOS devices and authentication systems (MFA, SSO).",
+      "Deploy and image workstations and manage user accounts in Active Directory and Azure AD.",
+      "Contribute to service improvement initiatives and IT operations excellence."
+    ],
+    "salary_range": "N/A",
+    "employment_type": "Full Time",
+    "language": "en",
+    "apply_url": "https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Nairobi-IHUB-Kenya/IT-Support-Specialist_JR00002029",
+    "created_at": "N/A",
+    "closing_date": "18 March 2026"
   }
 ]
