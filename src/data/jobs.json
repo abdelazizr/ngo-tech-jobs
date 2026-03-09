@@ -479,23 +479,6 @@
   },
   {
     "id": 13,
-    "title": "Case Management Data Senior Specialist",
-    "organization": "International Rescue Committee",
-    "location": "Kenya",
-    "description": "N/A",
-    "full_description": "N/A",
-    "requirements": [],
-    "responsibilities": [],
-    "salary_range": "N/A",
-    "employment_type": "Full Time",
-    "language": "en",
-    "apply_url": "https://ngojobsinafrica.com/job/case-management-data-senior-specialist/",
-    "created_at": "February 4, 2026",
-    "closing_date": "March 4, 2026",
-    "added_at": "2026-02-22"
-  },
-  {
-    "id": 14,
     "title": "Strategic Information Advisor",
     "organization": "Jhpiego, an Affiliate of Johns Hopkins University",
     "location": "Abuja, Nigeria",
@@ -532,7 +515,7 @@
     "added_at": "2026-02-22"
   },
   {
-    "id": 15,
+    "id": 14,
     "title": "Senior Officer Graphic Designer",
     "organization": "RefugePoint",
     "location": "Nairobi, Kenya",
@@ -565,7 +548,7 @@
     "added_at": "2026-02-22"
   },
   {
-    "id": 16,
+    "id": 15,
     "title": "Uganda Data and Systems Lead (Fixed Term)",
     "organization": "One Acre Fund",
     "location": "Jinja, Uganda",
@@ -610,7 +593,7 @@
     "added_at": "2026-02-22"
   },
   {
-    "id": 17,
+    "id": 16,
     "title": "Digital & Technology Officer - ETH",
     "organization": "Food for the Hungry",
     "location": "FH Ethiopia / Batu and Nekempte",
@@ -650,7 +633,7 @@
     "added_at": "2026-02-22"
   },
   {
-    "id": 18,
+    "id": 17,
     "title": "IT Support Specialist",
     "organization": "International Rescue Committee (IRC)",
     "location": "Nairobi, Kenya (IHUB)",
@@ -682,5 +665,248 @@
     "created_at": "N/A",
     "closing_date": "18 March 2026",
     "added_at": "2026-02-22"
+  },
+  {
+    "id": 18,
+    "title": "Data Platforms Manager",
+    "organization": "International Rescue Committee (IRC)",
+    "location": "Kenya, Uganda",
+    "description": "The IT-Data team is seeking a Data Platforms Manager to support the Data team in administering, governing, and optimizing the enterprise data platforms used across the organization—including Databricks & Unity Catalog and Power BI.",
+    "full_description": "Technology and Operations support the organization's work by providing reliable and scalable solutions for offices around the world. The Data Team at IRC is responsible for the design, delivery and governance of data technology and data programs at the IRC. This role ensures that data platforms are secure, well-governed, properly administered, and aligned with Data Team related standards, processes and guidelines. The Data Platforms Manager will collaborate closely with team members based in the United States and must maintain a minimum of 3 hours of overlapping work time with the New York time zone.",
+    "requirements": [
+      "Bachelor's degree in computer science, Information Management, or related experience.",
+      "2 years of experience administering data platforms such as Power BI, Databricks / Unity Catalog.",
+      "5 years of experience in one of the key data functions such as Data Engineering and Data Analytics.",
+      "Strong understanding of data classification, protection, tagging, and cataloging.",
+      "Excellent communication and interpersonal skills, with the ability to effectively engage with diverse stakeholders.",
+      "Non-profit and international humanitarian aid experience is a plus.",
+      "Demonstrated ability to maintain positive, collaborative, productive relationships.",
+      "Well-developed analytical and problem-solving skills.",
+      "Excellent technical skills, including strong experience with SQL, complex relational databases, BI tools, and data visualization."
+    ],
+    "responsibilities": [
+      "Administer and manage configurations across Data Platforms (including Azure Purview, Databricks and Power BI).",
+      "Implement and maintain role-based access controls (RBAC), workspace administration, group-based identity management, and platform-level privileged roles.",
+      "Manage platform auditing, monitoring, compliance, and license governance.",
+      "Support in implementing Enterprise Data Cataloging processes and practices.",
+      "Administer and manage support tickets such as license provisioning and issue troubleshooting.",
+      "Train data owners and stewards on new guidelines, standards and processes.",
+      "Document and maintain privileged roles across data platforms (such as Fabric Admin, Databricks Account Admin, etc.).",
+      "Align data platform configurations and processes with internal policies and compliance requirements.",
+      "Develop and maintain usage / audit logs monitoring tools.",
+      "Work closely with Data Team leads, Data Engineering teams, and Business Analysts to ensure platform governance.",
+      "Support data owners and custodians in implementing proper data control and access processes.",
+      "Maintain clear documentation, workflows, and platform administration guidelines.",
+      "Support in evaluating data platforms' enhancements and new features.",
+      "Monitor data platforms performance such as Power BI premium capacities."
+    ],
+    "salary_range": "N/A",
+    "employment_type": "Fixed Term",
+    "language": "en",
+    "apply_url": "https://theirc.wd1.myworkdayjobs.com/External_Careers/job/Nairobi-IHUB-Kenya/Data-Platforms-Manager_JR00002294",
+    "created_at": "March 7, 2026",
+    "closing_date": "April 7, 2026",
+    "added_at": "2026-03-08"
+  },
+  {
+    "id": 19,
+    "title": "Développeur en Intelligence Artificielle",
+    "organization": "Banque Centrale des États de l'Afrique de l'Ouest (BCEAO)",
+    "location": "Siège de la BCEAO à Dakar (Sénégal)",
+    "description": "Concevoir et valoriser le patrimoine de données de l'organisation en développant des solutions d'intelligence artificielle (apprentissage, NLP) pour automatiser et optimiser les processus métiers.",
+    "full_description": "La Banque Centrale des États de l'Afrique de l'Ouest (BCEAO) est un établissement public international dont le siège est situé à Dakar, au Sénégal. Elle est l’Institut d’émission commun aux Etats membres de l’Union Monétaire Ouest Africaine (UMOA). La mission du poste est de concevoir et valoriser le patrimoine de données de l'organisation en développant des solutions d'intelligence artificielle (apprentissage, NLP) pour automatiser et optimiser les processus métiers. Nombre de poste(s) : 02.",
+    "requirements": [
+      "Être ressortissant d’un Etat membre de l’UMOA",
+      "Jouir de ses droits civiques et être de bonne moralité",
+      "Être âgé de 18 ans au moins et de 40 ans au plus",
+      "Bac + 5 dans une école d'ingénieur en informatique, data science, Intelligence Artificielle, mathématiques appliquées ou équivalent",
+      "Avoir au minimum 2 ans d'expérience professionnelle en développement informatique",
+      "Bonne connaissance du Machine learning, du Deep learning, du langage de programmation PYTHON et des librairies IA et de la gestion des bases de données",
+      "Une expérience dans la réalisation de projets personnels ou professionnels en matière d’Agent IA, de chatbots, de système de recommandation ou d’analyse prédictive est un atout majeur"
+    ],
+    "responsibilities": [
+      "Architecture et Pipelines: Conçoit et maintient les modèles de données ; Met en place les pipelines d’alimentation (ETL/ELT) automatisés ; Conçoit et développe les solutions de modèles d’IA.",
+      "Développement IA et NLP: Sélectionne les architectures de modèles adaptées (Transformers, CNN, GNN, etc.) ; Optimise des modèles d'IA pour répondre aux besoins métiers (prédiction, analyse de texte).",
+      "Intégration et Maintenance: Intègre les modèles dans les applications existantes ; Effectue la maintenance et l’amélioration des systèmes d’IA existant.",
+      "Reporting et BI: Collecte, analyse et prépare les données ; Produit les états statistiques ; Conçoit les tableaux de bord (BI).",
+      "Veille Scientifique et Technologique: Assure une veille scientifique et technologique des dernières avancées en matière d’IA."
+    ],
+    "salary_range": "N/A",
+    "employment_type": "CDI",
+    "language": "fr",
+    "apply_url": "https://bceao2.tzportal.io//fr/apply?job=1925-35",
+    "created_at": "N/A",
+    "closing_date": "16 mars 2026",
+    "added_at": "2026-03-08"
+  },
+  {
+    "id": 20,
+    "title": "Architecte technique et urbaniste du système d'information",
+    "organization": "Banque Centrale des États de l'Afrique de l'Ouest (BCEAO)",
+    "location": "Siège de la BCEAO à Dakar (Sénégal)",
+    "description": "Définir l'architecture technique de tout ou partie du système d'information et garantir la cohérence et la pérennité de l'ensemble des moyens informatiques, en exploitant au mieux l'état de l'art.",
+    "full_description": "La Banque Centrale des États de l'Afrique de l'Ouest (BCEAO) est un établissement public international dont le siège est situé à Dakar, au Sénégal. Elle est l’Institut d’émission commun aux Etats membres de l’Union Monétaire Ouest Africaine (UMOA). La mission consiste à définir l'architecture technique de tout ou partie du système d'information et garantir la cohérence et la pérennité de l'ensemble des moyens informatiques, en exploitant au mieux l'état de l'art. Nombre de poste(s) : 01.",
+    "requirements": [
+      "Être ressortissant d’un Etat membre de l’UMOA",
+      "Jouir de ses droits civiques et être de bonne moralité",
+      "Être âgé de 18 ans au moins et de 40 ans au plus",
+      "Être titulaire d'un diplôme de niveau BAC+5 en Informatique",
+      "Avoir au minimum 2 ans d'expérience professionnelle pertinente sur un poste similaire"
+    ],
+    "responsibilities": [
+      "Définit l'architecture technique de systèmes d'information",
+      "Réalise des composants logiciels applicatifs dans le respect des normes et procédures",
+      "Prend en charge la maintenance corrective",
+      "Prend en charge la maintenance évolutive",
+      "Analyse les impacts techniques de nouvelles solutions et leur cohérence avec l'architecture existante",
+      "Propose des scénarios d'évolution et de simplification du système d'information",
+      "Gère les évolutions du référentiel de l'environnement de développement (outils, procédures, normes)",
+      "Conseille les équipes de développement sur les possibilités d'utilisation des outils informatiques et de télécommunications",
+      "Analyse les outils et approches nouvelles et formule des recommandations",
+      "Promeut les évolutions de l'architecture technique auprès des équipes de développement",
+      "Gère la cartographie applicative du système d'information",
+      "Spécifie le plan d'occupation des sols conformément aux standards et référentiels d'urbanisation",
+      "Analyse les nouveaux besoins applicatifs et propose des orientations qui s'intègrent harmonieusement à l'architecture du SI"
+    ],
+    "salary_range": "N/A",
+    "employment_type": "CDI",
+    "language": "fr",
+    "apply_url": "https://bceao2.tzportal.io//fr/apply?job=1924-51",
+    "created_at": "N/A",
+    "closing_date": "16 mars 2026",
+    "added_at": "2026-03-08"
+  },
+  {
+    "id": 21,
+    "title": "Administrateur sécurité réseaux",
+    "organization": "Banque Centrale des États de l'Afrique de l'Ouest (BCEAO)",
+    "location": "Siège de la BCEAO à Dakar (Sénégal)",
+    "description": "Définir et appliquer les règles de sécurité sur les composantes des réseaux locaux et étendus, des nœuds Internet, des réseaux d'accès distants et du réseau d'accès aux systèmes de paiement.",
+    "full_description": "La Banque Centrale des États de l'Afrique de l'Ouest (BCEAO) est un établissement public international dont le siège est situé à Dakar, au Sénégal. Elle est l’Institut d’émission commun aux Etats membres de l’Union Monétaire Ouest Africaine (UMOA). La mission consiste à définir et appliquer les règles de sécurité sur les composantes des réseaux locaux et étendus, des nœuds Internet, des réseaux d'accès distants et du réseau d'accès aux systèmes de paiement. Nombre de poste(s) : 01.",
+    "requirements": [
+      "Être ressortissant d’un Etat membre de l’UMOA",
+      "Jouir de ses droits civiques et être de bonne moralité",
+      "Être âgé de 18 ans au moins et de 40 ans au plus",
+      "Être titulaire d'un diplôme de niveau BAC + 5 en Sécurité des Systèmes et Réseaux Informatiques ou domaines connexes",
+      "Avoir au minimum 2 ans d'expérience professionnelle pertinente dans les domaines de la cybersécurité, de l’administration de la sécurité des réseaux (notamment au sein d’une banque, un cabinet d’audit, une entreprise de télécommunication, etc.)",
+      "Une Certification en Cybersécurité est un atout"
+    ],
+    "responsibilities": [
+      "Administre les équipements de sécurité",
+      "Sauvegarde et met à jour des configurations des équipements de sécurité",
+      "Analyse les journaux d’événements des équipements de sécurité et traite les messages d'alertes",
+      "Analyse les évolutions de l'offre et formule des recommandations relatives à leur adoption",
+      "Traite les incidents de sécurité réseau",
+      "Analyse les risques et les vulnérabilités et propose des mesures de mitigation",
+      "Vérifie lors des changements de configuration, la cohérence des règles appliquées avec la Politique de sécurité de l'information",
+      "Vérifie le bon fonctionnement des composantes de sécurité des réseaux locaux et étendus, des réseaux d'accès Internet, des réseaux d'accès distants, des VPN et des réseaux d'accès aux systèmes de paiement"
+    ],
+    "salary_range": "N/A",
+    "employment_type": "CDI",
+    "language": "fr",
+    "apply_url": "https://bceao2.tzportal.io//fr/apply?job=1926-81",
+    "created_at": "N/A",
+    "closing_date": "16 mars 2026",
+    "added_at": "2026-03-08"
+  },
+  {
+    "id": 22,
+    "title": "INFORMATION SYSTEM MANAGER",
+    "organization": "Médecins Sans Frontières - WaCA",
+    "location": "ABIDJAN, Laguna, Côte d'Ivoire",
+    "description": "Diriger la gestion et l’optimisation des systèmes informatiques d’entreprise au siège ainsi que dans l’ensemble de la mission.",
+    "full_description": "MSF WaCA, crée en 2019, est le 1er siège MSF en Afrique. Le département des Systèmes d’Information recherche un INFORMATION SYSTEM MANAGER pour garantir la sécurité, la disponibilité et les performances des systèmes, tout en les alignant sur les plateformes mondiales SITS de MSF. Le poste est basé à Abidjan avec une mobilité dans toutes les zones d’intervention MSF-WaCA.",
+    "requirements": [
+      "Licence (obligatoire) en informatique, technologies de l'information, systèmes d'information, génie informatique ou domaine connexe",
+      "Master (préféré) en systèmes d'information, gestion des TI, informatique ou MBA spécialisé",
+      "Au moins 6 ans d'expérience dans l'administration de systèmes ou la gestion de systèmes cloud",
+      "Expérience avérée avec Windows Server, Microsoft 365, Azure Cloud et outils MDM",
+      "Niveau professionnel en Français et Anglais (Obligatoire)",
+      "Maîtrise de la suite Office (Word, Excel, Powerpoint)"
+    ],
+    "responsibilities": [
+      "Garantir la sécurité, la disponibilité et les performances des systèmes",
+      "Aligner les systèmes locaux sur les plateformes mondiales SITS de MSF",
+      "Superviser les sauvegardes, la planification de la reprise après sinistre et la feuille de route des systèmes",
+      "Superviser la gestion des ressources fonctionnelles et les besoins en formation",
+      "Gérer le cycle de vie des systèmes et les contrats de licence/assistance",
+      "Gérer les fournisseurs et prestataires de systèmes",
+      "Collaborer avec le responsable des SI pour définir les exigences techniques et mettre à niveau les systèmes",
+      "Créer et maintenir les intégrations système et la documentation relative",
+      "Développer et mettre en œuvre des politiques et des processus système",
+      "Être le principal point de contact pour toutes les questions liées aux systèmes au sein de MSF WaCA"
+    ],
+    "salary_range": "N/A",
+    "employment_type": "CDI de droit Ivoirien ; Renouvelable",
+    "language": "fr",
+    "apply_url": "https://medecinssansfrontiereswaca.recruitee.com/o/information-system-manager",
+    "created_at": "N/A",
+    "closing_date": "31 Mars 2026",
+    "added_at": "2026-03-08"
+  },
+  {
+    "id": 23,
+    "title": "INFORMATION SYSTEM SUPPORT MANAGER",
+    "organization": "Médecins Sans Frontières - WaCA",
+    "location": "ABIDJAN, Laguna, Côte d'Ivoire",
+    "description": "Piloter les équipes de support, assurer la fiabilité des systèmes et garantir une excellente qualité de service aux utilisateurs.",
+    "full_description": "Le responsable du support dirigera et supervisera la fonction de support pour toutes les applications d'entreprise, l'infrastructure et les services aux utilisateurs. Cela comprend la gestion des équipes de support L1/L2, la coordination avec les fournisseurs externes et la mise en œuvre de processus de support proactifs. Le poste est basé à Abidjan au siège avec une mobilité dans toutes les zones d’intervention MSF-WaCA.",
+    "requirements": [
+      "Licence (obligatoire) en technologies de l'information, informatique, systèmes d'information, génie logiciel ou systèmes d'information de gestion",
+      "Master (souhaité) en gestion des SI, gestion des TI, informatique ou MBA spécialisé",
+      "Au moins 5 ans d'expérience dans le domaine du support informatique ou de la gestion des services, dont au moins 2 ans en supervision ou chef d'équipe",
+      "Connaissance approfondie de SharePoint, Microsoft 365, Windows Server, Active Directory et Azure AD",
+      "Solide compréhension et application pratique de l'ITIL ou d'autres cadres de gestion des services",
+      "Niveau professionnel en Français et Anglais (Obligatoire)"
+    ],
+    "responsibilities": [
+      "Superviser et encadrer les opérations quotidiennes de l'équipe d'assistance informatique",
+      "Établir, contrôler et appliquer les accords de niveau de service (SLA)",
+      "Agir en tant que principal point d'escalade pour les problèmes complexes en coordination avec les fournisseurs et les équipes de projet",
+      "Maintenir et développer une base de connaissances complète et créer de la documentation utilisateur",
+      "Surveiller de manière proactive l'état des appareils du système, la connectivité et les performances globales",
+      "Développer, documenter et mettre en œuvre des processus robustes pour la gestion des incidents, des problèmes et des changements (ITIL)",
+      "Fournir des rapports réguliers à la direction sur les performances de l'équipe d'assistance et la satisfaction des utilisateurs"
+    ],
+    "salary_range": "N/A",
+    "employment_type": "CDI de droit Ivoirien ; Renouvelable",
+    "language": "fr",
+    "apply_url": "https://medecinssansfrontiereswaca.recruitee.com/o/information-system-support-manager",
+    "created_at": "N/A",
+    "closing_date": "31 Mars 2026",
+    "added_at": "2026-03-08"
+  },
+  {
+    "id": 24,
+    "title": "Information Communication Technology Associate (Telecom), GS-6",
+    "organization": "UNICEF",
+    "location": "Kinshasa, DRC",
+    "description": "Les associés aux technologies de l'information et des communications (TIC) effectuent des activités procédurales et certaines activités spécialisées relatives aux systèmes TIC de l'UNICEF, qui comprennent l'administration du réseau LAN et WAN du bureau et s'assure du bon fonctionnement des sous-systèmes TIC des bureaux.",
+    "full_description": "Sous la supervision du ICT Officer, vous effectuerez les principales fonctions et responsabilités liées aux systèmes TIC de l'UNICEF. Les activités spécialisées concernent généralement l'installation et la configuration courante des composants du système de TIC et le renforcement des capacités des utilisateurs. Les activités de procédure comprennent aussi les autres processus qui ne nécessitent pas l'application d'une formation et des connaissances spécialisées en technologie de l'information, comme la tenue à jour de la documentation technique.",
+    "requirements": [
+      "Un minimum de six (6) ans d’expérience pratique dans le domaine des technologies de l’information, nécessitant des méthodes systématiques de dépannage et de résolution de problèmes.",
+      "Expérience de l’assistance aux utilisateurs sur les produits et services informatiques, ainsi que de l’utilisation d’applications et d’outils de diagnostic.",
+      "Expérience pratique de la prestation de services et de soutien à la clientèle technique et commerciale.",
+      "Expérience pratique et connaissance pratique de diverses plates-formes informatiques et applications.",
+      "La maîtrise du français est exigée.",
+      "Le certificat ITIL Foundation ou une certification équivalente de support client.",
+      "L'expérience professionnelle dans un pays en développement et/ou connaissance des situations d'urgence.",
+      "La connaissance de l’anglais ou d’une langue locale."
+    ],
+    "responsibilities": [
+      "Fournir un soutien de premier niveau qui comprend la réception, le traitement et l'enregistrement des demandes de service TIC.",
+      "Gérer le cycle de vie des incidents TIC assignés dans l'outil de gestion des services (ServiceGateway).",
+      "Fournir un soutien en matière de systèmes de conférences en ligne en installant les équipements audiovisuels.",
+      "Créer et attribuer des ordres de travail.",
+      "Tenir à jour les fichiers (électroniques et papier) et les bases de données internes sur le site Enterprise Content Management (ECM) SharePoint du bureau.",
+      "Tenir à jour l'inventaire des TIC, les manuels et autres documents."
+    ],
+    "salary_range": "N/A",
+    "employment_type": "Fixed Term Appointment",
+    "language": "fr",
+    "apply_url": "https://jobs.unicef.org/en-us/job/591301/internal-external-va-information-communication-technology-associate-telecom-gs6-ft-kinshasa-drc-21445",
+    "created_at": "N/A",
+    "closing_date": "12 March 2026",
+    "added_at": "2026-03-08"
   }
 ]
